@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	> A hidden directory is created storing the metadata for future version controling
