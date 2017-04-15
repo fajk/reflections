@@ -1,3 +1,9 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 	> A hidden directory is created storing the metadata for future version controling
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	> The staging area consitutes the middle piece between the offline working directory and the online git repository 
+	> Changes are commited from the staging area bit git commit to the git repository
+
